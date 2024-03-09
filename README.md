@@ -45,3 +45,7 @@ How It Works:
         The website uses the Poppins font from Google Fonts for its typography.
 
 Overall, Codey provides a simple and user-friendly interface for coding and observing the outcomes of HTML, CSS, and JavaScript code snippets in real-time.
+
+This website is live at ->
+
+        https://alphadomain2.github.io/Codey/
